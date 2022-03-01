@@ -49,7 +49,7 @@ Para crear una página web, vamos a usar los siguientes 3 lenguajes.
 # Tabla de Contenidos
 
 1. [Día 1 (HTML)](dia1_html/Dia1.md)
-2. [Día 2 (CSS)](x/y)
+2. [Día 2 (CSS)](dia2_css/Dia2.md)
 3. [Día 4 (Diseño responsive)](x/y)
 4. [Día 5 (Javscript)](x/y)
 5. [Día 6 (Bootstrap)](x/y)
