@@ -50,7 +50,7 @@ Para crear una página web, vamos a usar los siguientes 3 lenguajes.
 
 1. [Día 1 (HTML)](dia1_html/Dia1.md)
 2. [Día 2 (CSS)](dia2_css/Dia2.md)
-3. [Día 4 (Diseño responsive)](x/y)
+3. [Día 4 (Diseño responsive)](dia3_css/Dia3.md)
 4. [Día 5 (Javscript)](x/y)
 5. [Día 6 (Bootstrap)](x/y)
 6. [Día 7 (Formularios)](x/y)
