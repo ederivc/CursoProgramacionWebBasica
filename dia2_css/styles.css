@@ -1,0 +1,46 @@
+body {
+  width: 60vw;
+  margin: 0 auto;
+  background-color: #ddd;
+}
+
+.imagen-pelicula {
+  width: 200px;
+  height: auto;
+}
+
+.indice-lista {
+  border: 2px solid gray;
+  display: inline-block;
+  padding: 10px 25px;
+  margin-bottom: 20px;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  border-bottom: 4px solid black;
+}
+
+ul {
+  list-style-type: square;
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+td:first-child {
+  font-weight: bold;
+}
+
+.link-trailer {
+  color: green;
+}
